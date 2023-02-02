@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Face Recognition System",
+    "desc": "Face Recognition is a technology in computer vision. In Face recognition / detection we locate and visualize the human faces in any digital image.",
+    "image": "Home",
+    "category": "GUI App",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+
+  {
+    "name": "Online Food Delivery",
+    "desc": "An online food ordering system is a web-based application that stimulates the foodies to put food orders through internet by locating the restaurant.",
+    "image": "fodies",
+    "category": "Webpage",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+
+  {
+    "name": "College Management System",
+    "desc": "College management system manages the student and lecturer data.It stores, organizes, and manages a large amount of information within a single application.",
+    "image": "CMS",
+    "category": "Webpage",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+
+  {
+    "name": "Table Tennis Game",
+    "desc": "Table Tennis Game project is developed using JavaScript and HTML canvas.The player has to move stick like a TT bat to reflect the ball back to the opponent and make a score.",
+    "image": "TTGame",
+    "category": "Webpage",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+  
+]
